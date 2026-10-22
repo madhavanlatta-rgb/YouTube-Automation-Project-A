@@ -1,0 +1,29 @@
+name: YouTube Automation
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 6 */2 * *"
+
+jobs:
+  build-sample:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg espeak-ng
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+      - name: Build sample
+        run: python -m youtube_automation.cli build-sample
+      - name: Upload outputs
+        uses: actions/upload-artifact@v4
+        with:
+          name: youtube-automation-outputs
+          path: outputs/

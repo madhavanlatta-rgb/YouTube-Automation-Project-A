@@ -1,0 +1,202 @@
+[
+  {
+    "id": "applications-023",
+    "text": "Why does an engine turn fuel into steady motion?",
+    "audio_path": "/workspace/ytauto_v3/outputs/four-stroke-engine/audio/segments/applications-023.wav",
+    "duration_sec": 7.043084,
+    "start_sec": 0.0,
+    "end_sec": 7.043084
+  },
+  {
+    "id": "applications-024",
+    "text": "Inside a cylinder, a repeating four-stroke cycle transforms chemical energy into mechanical rotation.",
+    "audio_path": "/workspace/ytauto_v3/outputs/four-stroke-engine/audio/segments/applications-024.wav",
+    "duration_sec": 6.388889,
+    "start_sec": 7.043084,
+    "end_sec": 13.431973
+  },
+  {
+    "id": "applications-025",
+    "text": "A four-stroke engine centers on a cylinder, piston, connecting rod, crankshaft, intake and exhaust valves, and an ignition or injection system.",
+    "audio_path": "/workspace/ytauto_v3/outputs/four-stroke-engine/audio/segments/applications-025.wav",
+    "duration_sec": 4.258322,
+    "start_sec": 13.431973,
+    "end_sec": 17.690295
+  },
+  {
+    "id": "components-003",
+    "text": "The piston moves in a straight line, while the connecting rod and crankshaft convert that motion into rotation.",
+    "audio_path": "/workspace/ytauto_v3/outputs/four-stroke-engine/audio/segments/components-003.wav",
+    "duration_sec": 10.527574,
+    "start_sec": 17.690295,
+    "end_sec": 28.217869
+  },
+  {
+    "id": "components-004",
+    "text": "During intake, the intake valve opens and the piston moves downward.",
+    "audio_path": "/workspace/ytauto_v3/outputs/four-stroke-engine/audio/segments/components-004.wav",
+    "duration_sec": 7.35356,
+    "start_sec": 28.217869,
+    "end_sec": 35.571429
+  },
+  {
+    "id": "compression-008",
+    "text": "That motion lowers pressure inside the cylinder and draws in air, or an air-fuel mixture in many older engines.",
+    "audio_path": "/workspace/ytauto_v3/outputs/four-stroke-engine/audio/segments/compression-008.wav",
+    "duration_sec": 2.643764,
+    "start_sec": 35.571429,
+    "end_sec": 38.215193
+  },
+  {
+    "id": "compression-009",
+    "text": "The exhaust valve remains closed.",
+    "audio_path": "/workspace/ytauto_v3/outputs/four-stroke-engine/audio/segments/compression-009.wav",
+    "duration_sec": 5.249025,
+    "start_sec": 38.215193,
+    "end_sec": 43.464218
+  },
+  {
+    "id": "compression-010",
+    "text": "Both valves close for compression.",
+    "audio_path": "/workspace/ytauto_v3/outputs/four-stroke-engine/audio/segments/compression-010.wav",
+    "duration_sec": 4.998503,
+    "start_sec": 43.464218,
+    "end_sec": 48.462721
+  },
+  {
+    "id": "exhaust-015",
+    "text": "The piston moves upward and squeezes the trapped charge into a smaller volume.",
+    "audio_path": "/workspace/ytauto_v3/outputs/four-stroke-engine/audio/segments/exhaust-015.wav",
+    "duration_sec": 2.36712,
+    "start_sec": 48.462721,
+    "end_sec": 50.829841
+  },
+  {
+    "id": "exhaust-016",
+    "text": "Higher pressure and temperature prepare the mixture for efficient combustion.",
+    "audio_path": "/workspace/ytauto_v3/outputs/four-stroke-engine/audio/segments/exhaust-016.wav",
+    "duration_sec": 4.708889,
+    "start_sec": 50.829841,
+    "end_sec": 55.53873
+  },
+  {
+    "id": "exhaust-017",
+    "text": "At the top of compression, ignition occurs.",
+    "audio_path": "/workspace/ytauto_v3/outputs/four-stroke-engine/audio/segments/exhaust-017.wav",
+    "duration_sec": 3.32127,
+    "start_sec": 55.53873,
+    "end_sec": 58.86
+  },
+  {
+    "id": "hook-001",
+    "text": "A spark plug ignites gasoline mixtures, while diesel engines use heat from compression to ignite injected fuel.",
+    "audio_path": "/workspace/ytauto_v3/outputs/four-stroke-engine/audio/segments/hook-001.wav",
+    "duration_sec": 3.386304,
+    "start_sec": 58.86,
+    "end_sec": 62.246304
+  },
+  {
+    "id": "hook-002",
+    "text": "Expanding gases force the piston downward and spin the crankshaft.",
+    "audio_path": "/workspace/ytauto_v3/outputs/four-stroke-engine/audio/segments/hook-002.wav",
+    "duration_sec": 6.91034,
+    "start_sec": 62.246304,
+    "end_sec": 69.156644
+  },
+  {
+    "id": "intake-005",
+    "text": "This is the stroke that produces useful power.",
+    "audio_path": "/workspace/ytauto_v3/outputs/four-stroke-engine/audio/segments/intake-005.wav",
+    "duration_sec": 4.91542,
+    "start_sec": 69.156644,
+    "end_sec": 74.072064
+  },
+  {
+    "id": "intake-006",
+    "text": "The exhaust valve then opens.",
+    "audio_path": "/workspace/ytauto_v3/outputs/four-stroke-engine/audio/segments/intake-006.wav",
+    "duration_sec": 7.253288,
+    "start_sec": 74.072064,
+    "end_sec": 81.325352
+  },
+  {
+    "id": "intake-007",
+    "text": "As the piston moves upward, it pushes burned gases out of the cylinder.",
+    "audio_path": "/workspace/ytauto_v3/outputs/four-stroke-engine/audio/segments/intake-007.wav",
+    "duration_sec": 2.69737,
+    "start_sec": 81.325352,
+    "end_sec": 84.022722
+  },
+  {
+    "id": "power-011",
+    "text": "Once they leave, the cycle can begin again.",
+    "audio_path": "/workspace/ytauto_v3/outputs/four-stroke-engine/audio/segments/power-011.wav",
+    "duration_sec": 3.24127,
+    "start_sec": 84.022722,
+    "end_sec": 87.263992
+  },
+  {
+    "id": "power-012",
+    "text": "A camshaft opens and closes each valve at precise crankshaft angles.",
+    "audio_path": "/workspace/ytauto_v3/outputs/four-stroke-engine/audio/segments/power-012.wav",
+    "duration_sec": 7.5922,
+    "start_sec": 87.263992,
+    "end_sec": 94.85619200000001
+  },
+  {
+    "id": "power-013",
+    "text": "Correct timing keeps the cycle efficient; incorrect timing can cause poor running, knocking, overheating, or backfiring.",
+    "audio_path": "/workspace/ytauto_v3/outputs/four-stroke-engine/audio/segments/power-013.wav",
+    "duration_sec": 4.791111,
+    "start_sec": 94.85619200000001,
+    "end_sec": 99.64730300000001
+  },
+  {
+    "id": "power-014",
+    "text": "Real engines lose energy to heat, friction, pumping losses, and incomplete combustion.",
+    "audio_path": "/workspace/ytauto_v3/outputs/four-stroke-engine/audio/segments/power-014.wav",
+    "duration_sec": 3.090068,
+    "start_sec": 99.64730300000001,
+    "end_sec": 102.73737100000001
+  },
+  {
+    "id": "reliability-020",
+    "text": "Oil films, cooling passages, piston rings, and clean air protect performance.",
+    "audio_path": "/workspace/ytauto_v3/outputs/four-stroke-engine/audio/segments/reliability-020.wav",
+    "duration_sec": 6.302993,
+    "start_sec": 102.73737100000001,
+    "end_sec": 109.04036400000001
+  },
+  {
+    "id": "reliability-021",
+    "text": "Worn rings, leaking valves, overheating, and detonation are common failure paths.",
+    "audio_path": "/workspace/ytauto_v3/outputs/four-stroke-engine/audio/segments/reliability-021.wav",
+    "duration_sec": 6.16381,
+    "start_sec": 109.04036400000001,
+    "end_sec": 115.20417400000001
+  },
+  {
+    "id": "reliability-022",
+    "text": "The same four-stroke principle powers most cars, motorcycles, generators, and many aircraft.",
+    "audio_path": "/workspace/ytauto_v3/outputs/four-stroke-engine/audio/segments/reliability-022.wav",
+    "duration_sec": 6.034649,
+    "start_sec": 115.20417400000001,
+    "end_sec": 121.23882300000001
+  },
+  {
+    "id": "timing-018",
+    "text": "Understanding the cycle explains why maintenance matters and why engineers seek better efficiency.",
+    "audio_path": "/workspace/ytauto_v3/outputs/four-stroke-engine/audio/segments/timing-018.wav",
+    "duration_sec": 5.286485,
+    "start_sec": 121.23882300000001,
+    "end_sec": 126.52530800000001
+  },
+  {
+    "id": "timing-019",
+    "text": "The idea is simple; the execution depends on precision.",
+    "audio_path": "/workspace/ytauto_v3/outputs/four-stroke-engine/audio/segments/timing-019.wav",
+    "duration_sec": 8.704399,
+    "start_sec": 126.52530800000001,
+    "end_sec": 135.22970700000002
+  }
+]

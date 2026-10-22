@@ -1,0 +1,91 @@
+{
+  "topic_id": "four-stroke-engine",
+  "network_used": true,
+  "notes": [],
+  "sources": [
+    {
+      "title": "Four-stroke engine",
+      "url": "https://en.wikipedia.org/wiki/Four-stroke_engine",
+      "source_type": "encyclopedia",
+      "notes": "Full article extract"
+    },
+    {
+      "title": "Internal combustion engine",
+      "url": "https://en.wikipedia.org/wiki/Internal_combustion_engine",
+      "source_type": "encyclopedia",
+      "notes": "Full article extract"
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim-1",
+      "text": "A four-stroke engine completes one thermodynamic cycle in four piston strokes: intake, compression, power, and exhaust.",
+      "status": "supported",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Four-stroke_engine",
+        "https://en.wikipedia.org/wiki/Internal_combustion_engine"
+      ],
+      "uncertainty": ""
+    },
+    {
+      "id": "claim-2",
+      "text": "The piston, connecting rod, crankshaft, cylinder, valves, and spark plug or injector are core components.",
+      "status": "supported",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Four-stroke_engine",
+        "https://en.wikipedia.org/wiki/Internal_combustion_engine"
+      ],
+      "uncertainty": ""
+    },
+    {
+      "id": "claim-3",
+      "text": "During intake, the intake valve opens and the piston moves down, drawing in air or an air-fuel mixture.",
+      "status": "supported",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Four-stroke_engine",
+        "https://en.wikipedia.org/wiki/Internal_combustion_engine"
+      ],
+      "uncertainty": ""
+    },
+    {
+      "id": "claim-4",
+      "text": "During compression, both valves are closed and the piston moves up, compressing the charge.",
+      "status": "supported",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Four-stroke_engine",
+        "https://en.wikipedia.org/wiki/Internal_combustion_engine"
+      ],
+      "uncertainty": ""
+    },
+    {
+      "id": "claim-5",
+      "text": "During the power stroke, combustion pushes the piston down and rotates the crankshaft.",
+      "status": "supported",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Four-stroke_engine",
+        "https://en.wikipedia.org/wiki/Internal_combustion_engine"
+      ],
+      "uncertainty": ""
+    },
+    {
+      "id": "claim-6",
+      "text": "During exhaust, the exhaust valve opens and the piston moves up to expel burned gases.",
+      "status": "supported",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Four-stroke_engine",
+        "https://en.wikipedia.org/wiki/Internal_combustion_engine"
+      ],
+      "uncertainty": ""
+    },
+    {
+      "id": "claim-7",
+      "text": "Valve timing and mechanical tolerances affect efficiency, emissions, heat, and wear.",
+      "status": "supported",
+      "source_urls": [
+        "https://en.wikipedia.org/wiki/Four-stroke_engine",
+        "https://en.wikipedia.org/wiki/Internal_combustion_engine"
+      ],
+      "uncertainty": ""
+    }
+  ]
+}

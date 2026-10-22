@@ -1,0 +1,32 @@
+{
+  "project_name": "youtube-automation",
+  "output_root": "outputs",
+  "work_root": "work",
+  "max_duration_sec": 1200,
+  "tts": {
+    "engine": "espeak-ng",
+    "voice": "en-us",
+    "rate": 150,
+    "pitch": 40,
+    "gap_sec": 0.12
+  },
+  "render": {
+    "width": 1280,
+    "height": 720,
+    "fps": 12,
+    "max_duration_sec": 1200,
+    "style": "sepia_technical"
+  },
+  "completed_topics_path": "config/completed_topics.json",
+  "youtube": {
+    "enabled": false,
+    "dry_run": true,
+    "client_secrets_env": "YOUTUBE_CLIENT_SECRETS",
+    "token_path": "config/youtube_token.json"
+  },
+  "scheduler": {
+    "interval_days": 2,
+    "max_retries": 1,
+    "job_timeout_sec": 7200
+  }
+}

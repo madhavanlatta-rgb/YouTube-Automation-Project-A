@@ -1,0 +1,4 @@
+# Core runtime dependencies are provided by the base environment:
+# Python 3, ffmpeg/ffprobe, espeak-ng, Pillow, NumPy, pytest
+# Optional publishing dependency:
+# google-api-python-client>=2.0

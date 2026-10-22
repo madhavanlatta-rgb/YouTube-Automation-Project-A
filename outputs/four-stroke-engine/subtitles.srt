@@ -1,0 +1,99 @@
+1
+00:00:00,000 --> 00:00:07,043
+Why does an engine turn fuel into steady motion?
+
+2
+00:00:07,043 --> 00:00:13,432
+Inside a cylinder, a repeating four-stroke cycle transforms chemical energy into mechanical rotation.
+
+3
+00:00:13,432 --> 00:00:17,690
+A four-stroke engine centers on a cylinder, piston, connecting rod, crankshaft, intake and exhaust valves, and an ignition or injection system.
+
+4
+00:00:17,690 --> 00:00:28,218
+The piston moves in a straight line, while the connecting rod and crankshaft convert that motion into rotation.
+
+5
+00:00:28,218 --> 00:00:35,571
+During intake, the intake valve opens and the piston moves downward.
+
+6
+00:00:35,571 --> 00:00:38,215
+That motion lowers pressure inside the cylinder and draws in air, or an air-fuel mixture in many older engines.
+
+7
+00:00:38,215 --> 00:00:43,464
+The exhaust valve remains closed.
+
+8
+00:00:43,464 --> 00:00:48,463
+Both valves close for compression.
+
+9
+00:00:48,463 --> 00:00:50,830
+The piston moves upward and squeezes the trapped charge into a smaller volume.
+
+10
+00:00:50,830 --> 00:00:55,539
+Higher pressure and temperature prepare the mixture for efficient combustion.
+
+11
+00:00:55,539 --> 00:00:58,860
+At the top of compression, ignition occurs.
+
+12
+00:00:58,860 --> 00:01:02,246
+A spark plug ignites gasoline mixtures, while diesel engines use heat from compression to ignite injected fuel.
+
+13
+00:01:02,246 --> 00:01:09,157
+Expanding gases force the piston downward and spin the crankshaft.
+
+14
+00:01:09,157 --> 00:01:14,072
+This is the stroke that produces useful power.
+
+15
+00:01:14,072 --> 00:01:21,325
+The exhaust valve then opens.
+
+16
+00:01:21,325 --> 00:01:24,023
+As the piston moves upward, it pushes burned gases out of the cylinder.
+
+17
+00:01:24,023 --> 00:01:27,264
+Once they leave, the cycle can begin again.
+
+18
+00:01:27,264 --> 00:01:34,856
+A camshaft opens and closes each valve at precise crankshaft angles.
+
+19
+00:01:34,856 --> 00:01:39,647
+Correct timing keeps the cycle efficient; incorrect timing can cause poor running, knocking, overheating, or backfiring.
+
+20
+00:01:39,647 --> 00:01:42,737
+Real engines lose energy to heat, friction, pumping losses, and incomplete combustion.
+
+21
+00:01:42,737 --> 00:01:49,040
+Oil films, cooling passages, piston rings, and clean air protect performance.
+
+22
+00:01:49,040 --> 00:01:55,204
+Worn rings, leaking valves, overheating, and detonation are common failure paths.
+
+23
+00:01:55,204 --> 00:02:01,239
+The same four-stroke principle powers most cars, motorcycles, generators, and many aircraft.
+
+24
+00:02:01,239 --> 00:02:06,525
+Understanding the cycle explains why maintenance matters and why engineers seek better efficiency.
+
+25
+00:02:06,525 --> 00:02:15,230
+The idea is simple; the execution depends on precision.

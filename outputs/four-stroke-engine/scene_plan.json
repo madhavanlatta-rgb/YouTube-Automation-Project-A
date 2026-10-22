@@ -1,0 +1,113 @@
+{
+  "scenes": [
+    {
+      "id": "hook",
+      "title": "The Question",
+      "narration": "Why does an engine turn fuel into steady motion? Inside a cylinder, a repeating four-stroke cycle transforms chemical energy into mechanical rotation.",
+      "visual": "Cutaway cylinder with piston, crankshaft, and four stroke labels; animated arrows show the cycle.",
+      "duration_sec": 10.296644,
+      "start_sec": 0.0,
+      "end_sec": 10.296644,
+      "claims": [
+        "claim-1"
+      ]
+    },
+    {
+      "id": "components",
+      "title": "Main Components",
+      "narration": "A four-stroke engine centers on a cylinder, piston, connecting rod, crankshaft, intake and exhaust valves, and an ignition or injection system. The piston moves in a straight line, while the connecting rod and crankshaft convert that motion into rotation.",
+      "visual": "Exploded technical drawing of cylinder, piston, connecting rod, crankshaft, valves, and spark plug with labels.",
+      "duration_sec": 17.881134,
+      "start_sec": 10.296644,
+      "end_sec": 28.177778,
+      "claims": [
+        "claim-2"
+      ]
+    },
+    {
+      "id": "intake",
+      "title": "Intake Stroke",
+      "narration": "During intake, the intake valve opens and the piston moves downward. That motion lowers pressure inside the cylinder and draws in air, or an air-fuel mixture in many older engines. The exhaust valve remains closed.",
+      "visual": "Piston moves down; intake valve open; blue arrows show incoming air; exhaust valve closed.",
+      "duration_sec": 14.866078,
+      "start_sec": 28.177778,
+      "end_sec": 43.043856,
+      "claims": [
+        "claim-3"
+      ]
+    },
+    {
+      "id": "compression",
+      "title": "Compression Stroke",
+      "narration": "Both valves close for compression. The piston moves upward and squeezes the trapped charge into a smaller volume. Higher pressure and temperature prepare the mixture for efficient combustion.",
+      "visual": "Piston moves up; both valves closed; compression arrows and pressure labels.",
+      "duration_sec": 12.891292,
+      "start_sec": 43.043856,
+      "end_sec": 55.935148,
+      "claims": [
+        "claim-4"
+      ]
+    },
+    {
+      "id": "power",
+      "title": "Power Stroke",
+      "narration": "At the top of compression, ignition occurs. A spark plug ignites gasoline mixtures, while diesel engines use heat from compression to ignite injected fuel. Expanding gases force the piston downward and spin the crankshaft. This is the stroke that produces useful power.",
+      "visual": "Spark or injection flash; expanding red gas; piston forced down; crankshaft rotates.",
+      "duration_sec": 18.714648999999998,
+      "start_sec": 55.935148,
+      "end_sec": 74.64979699999999,
+      "claims": [
+        "claim-5"
+      ]
+    },
+    {
+      "id": "exhaust",
+      "title": "Exhaust Stroke",
+      "narration": "The exhaust valve then opens. As the piston moves upward, it pushes burned gases out of the cylinder. Once they leave, the cycle can begin again.",
+      "visual": "Exhaust valve open; gray gas flows out; piston moves up.",
+      "duration_sec": 10.397279000000001,
+      "start_sec": 74.64979699999999,
+      "end_sec": 85.04707599999999,
+      "claims": [
+        "claim-6"
+      ]
+    },
+    {
+      "id": "timing",
+      "title": "Valve Timing",
+      "narration": "A camshaft opens and closes each valve at precise crankshaft angles. Correct timing keeps the cycle efficient; incorrect timing can cause poor running, knocking, overheating, or backfiring.",
+      "visual": "Camshaft with lobes, timing marks, and valve lift diagram.",
+      "duration_sec": 13.990884000000001,
+      "start_sec": 85.04707599999999,
+      "end_sec": 99.03796,
+      "claims": [
+        "claim-7"
+      ]
+    },
+    {
+      "id": "reliability",
+      "title": "Efficiency and Failure",
+      "narration": "Real engines lose energy to heat, friction, pumping losses, and incomplete combustion. Oil films, cooling passages, piston rings, and clean air protect performance. Worn rings, leaking valves, overheating, and detonation are common failure paths.",
+      "visual": "Heat and friction arrows, oil film, cooling channels, and failure callouts on the cutaway.",
+      "duration_sec": 18.501452,
+      "start_sec": 99.03796,
+      "end_sec": 117.539412,
+      "claims": [
+        "claim-7"
+      ]
+    },
+    {
+      "id": "applications",
+      "title": "Applications and Conclusion",
+      "narration": "The same four-stroke principle powers most cars, motorcycles, generators, and many aircraft. Understanding the cycle explains why maintenance matters and why engineers seek better efficiency. The idea is simple; the execution depends on precision.",
+      "visual": "Applications montage and final cutaway with all four stroke labels.",
+      "duration_sec": 17.690295,
+      "start_sec": 117.539412,
+      "end_sec": 135.229707,
+      "claims": [
+        "claim-1"
+      ]
+    }
+  ],
+  "total_duration_sec": 135.229707
+}
